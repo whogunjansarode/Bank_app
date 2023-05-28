@@ -1,7 +1,7 @@
 import styles  from "./style"
 
 import { Navbar, Billing, CardDeal, Business, Clients, CTA, Stats, Footer, Testimonials, Hero,} from './components'
-
+//shg
 
 
 
